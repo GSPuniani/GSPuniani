@@ -16,7 +16,7 @@
 
 **Areas of Interest:**
 
-**Machine Learning, Deep Learning, Data Science, and anything else in AI**
+**Machine Learning, Deep Learning, Data Science, Software Engineering, Product Management**
 <br />
 
 
