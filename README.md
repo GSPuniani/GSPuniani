@@ -24,6 +24,8 @@
 
 <br />
 
+[![My Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GSPuniani&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=GSPuniani&layout=compact)
+
 *************
 
 <br />
